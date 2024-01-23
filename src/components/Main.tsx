@@ -72,7 +72,7 @@ export const Main = () => {
               />
               <ConversationHeader.Content             
               /> 
-            </Conversation>
+            </Conversation> 
           ))}
 
             </ConversationList>
