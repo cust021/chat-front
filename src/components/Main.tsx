@@ -67,7 +67,7 @@ export const Main = () => {
 
               <Avatar 
               src={require("./images/ram.png")}
-              name="Zone" 
+              name="Zone"  
               status={user.login?'available':'dnd'}
               />
               <ConversationHeader.Content             
